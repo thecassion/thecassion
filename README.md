@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+### LinkedIn Profile
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="thecassion" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ht.linkedin.com/in/thecassion?trk=profile-badge">Pierre Robentz CASSION</a></div>
+              
+
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thecassion&theme=dark&background=000000)](https://git.io/streak-stats)
 
