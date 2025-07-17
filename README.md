@@ -1,41 +1,31 @@
-### Hi there 👋, I am Pierre Robentz Cassion
+Hi there 👋, I'm Pierre Robentz Cassion
 
-**thecassion/thecassion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+thecassion/thecassion is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on [MLHaïti](https://github.com/MLHaiti/mlhaiti-server)
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about #ReactJS , #PHP, #Python
-- 📫 How to reach me: pierrerobentz.cassion@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔭 Currently working on innovative solutions in AI, chatbot development, data analytics, and EHR SaaS platforms.
 
-### LinkedIn Profile
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="thecassion" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ht.linkedin.com/in/thecassion?trk=profile-badge">Pierre Robentz CASSION</a></div>
-              
+🌱 Learning advanced implementations with LangChain, FastAPI, Flutter, and .NET Clean Architecture.
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thecassion&theme=dark&background=000000)](https://git.io/streak-stats)
+👯 Looking to collaborate on MLHaïti.
+
+🤔 Interested in collaborating on GenAI, React Native applications, and multilingual chatbot projects.
+
+💬 Ask me about: #ReactJS, #Python, #FastAPI, #Flutter, #Firebase, and #LangChain.
+
+📫 Reach me at: pierrerobentz.cassion@gmail.com
+
+😄 Pronouns: he/him
+
+⚡ Fun fact: Passionate about fitness, bodybuilding, and creating bilingual TikTok content (English and Haitian Creole) to share tech and fitness knowledge.
+
+🔗 LinkedIn Profile
+
+Pierre Robentz CASSION
+
+:fire: My GitHub Stats
 
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+
+:hammer_and_wrench: Languages and Tools
