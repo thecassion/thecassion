@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://cassion.dev"><img src="https://img.shields.io/badge/Portfolio-cassion.dev-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/pierre-robentz-cassion/"><img src="https://img.shields.io/badge/LinkedIn-Pierre%20Robentz%20Cassion-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/thecassion/"><img src="https://img.shields.io/badge/LinkedIn-Pierre%20Robentz%20Cassion-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:pierrerobentz.cassion@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
